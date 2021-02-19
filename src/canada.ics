@@ -1,0 +1,1276 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Office Holidays Ltd.//EN
+X-WR-CALNAME:Canada Holidays
+X-WR-CALDESC:Public Holidays in Canada. Provided by http://www.officeholidays.com
+REFRESH-INTERVAL;VALUE=DURATION:PT48H
+X-PUBLISHED-TTL:PT48H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-01-01CA415regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: New Year's Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\n\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/international-new-years-day
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210102
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:New Year's Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-02-15CA287regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: A provincial statutory holiday observed on the third Monday in February in most provinces\n\n3rd Monday in February\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/family-day
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210216
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, Saskatchewan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Family Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-02-15CA-MB1008regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Louis Riel, the Métis leader is regarded as the Father of Manitoba\n\n3rd Monday in February\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/manitoba/canada-manitoba-louis-riel-day
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210216
+DTSTAMP:20080101T000000Z
+LOCATION:Manitoba
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Louis Riel Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-02-15CA-NS2718regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The third Monday in February is a holiday in Nova Scotia to celebrate the heritage of the province\n\n3rd Monday in February\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/nova-scotia/nova-scotia-heritage-day
+DTSTART;VALUE=DATE:20210215
+DTEND;VALUE=DATE:20210216
+DTSTAMP:20080101T000000Z
+LOCATION:Nova Scotia
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Nova Scotia Heritage Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-03-15CA-NL808reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: St. Patrick, the patron saint of Ireland, is a widely known historic figure. But for all his celebrity, his life remains somewhat of a mystery\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/st-patricks-day
+DTSTART;VALUE=DATE:20210315
+DTEND;VALUE=DATE:20210316
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:St. Patrick's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-04-02CA345regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nStatutory, except in Quebec\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/good-friday
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210403
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Good Friday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-04-05CA263regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nNunavut. Optional in Alberta and Quebec\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/easter-monday
+DTSTART;VALUE=DATE:20210405
+DTEND;VALUE=DATE:20210406
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, Nunavut, Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Easter Monday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-04-26CA-NL2800reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: This is the generally accepted date of St. George's death\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/st-georges-day
+DTSTART;VALUE=DATE:20210426
+DTEND;VALUE=DATE:20210427
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:St. George's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-05-24CA908regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Victoria Day celebrates the birthday of Queen Victoria. Following the death of Queen Victoria, May 24th was decreed as Empire Day across the British Empire\n\nMost provinces\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/victoria-day
+DTSTART;VALUE=DATE:20210524
+DTEND;VALUE=DATE:20210525
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Victoria Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-05-24CA-QC1007regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: National Patriots' Day (Journée nationale des patriotes) is a commemoration of the Lower Canada Rebellion of 1837\n\nQuebec only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/quebec/canada-quebec-national-patriots-day
+DTSTART;VALUE=DATE:20210524
+DTEND;VALUE=DATE:20210525
+DTSTAMP:20080101T000000Z
+LOCATION:Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:National Patriots' Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-06-21CA578regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: A Provincial Statutory Holiday since 2001 in Northwest Territories and since 2017 in Yukon\n\nNorthwest Territories, Yukon. Provinvial Statutory Holiday\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/national-aboriginal-day
+DTSTART;VALUE=DATE:20210621
+DTEND;VALUE=DATE:20210622
+DTSTAMP:20080101T000000Z
+LOCATION:Northwest Territories, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:National Aboriginal Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-06-21CA-NL606regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: June Day commemorates the discovery of the province in 1497 by John Cabot.\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/newfoundland-discovery-day
+DTSTART;VALUE=DATE:20210621
+DTEND;VALUE=DATE:20210622
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:June Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-06-24CA-QC849regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Saint-Jean Baptiste Day, the national holiday of Québec and a celebration of French-Canadian culture held on the birthday of Quebec’s patron saint\n\nQuebec only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/quebec/the-national-holiday-of-quebec
+DTSTART;VALUE=DATE:20210624
+DTEND;VALUE=DATE:20210625
+DTSTAMP:20080101T000000Z
+LOCATION:Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:The National Holiday of Quebec (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-07-01CA150regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Celebrates of the anniversary of the formation of the union of the British North America provinces in a federation under the name of Canada\n\nNational Day\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-day
+DTSTART;VALUE=DATE:20210701
+DTEND;VALUE=DATE:20210702
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Canada Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-07-09CA-NU619regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Marks the passing of the Nunavut Act in 1993, which paved the way for the creation of the territory of Nunavut in 1999\n\nNunavut\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/nunavut/nunavut-day
+DTSTART;VALUE=DATE:20210709
+DTEND;VALUE=DATE:20210710
+DTSTAMP:20080101T000000Z
+LOCATION:Nunavut
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Nunavut Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-07-12CA-NL1015reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Commemorates the Battle of the Boyne, fought on July 1st 1690 by King William of Orange against King James II\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/orangemans-day
+DTSTART;VALUE=DATE:20210712
+DTEND;VALUE=DATE:20210713
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Orangeman's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-08-02CA-AB1080regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: An optional general holiday observed by most companies to celebrate the heritage of Alberta\n\nOptional General Holiday. First Monday in August\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/alberta/alberta-heritage-day
+DTSTART;VALUE=DATE:20210802
+DTEND;VALUE=DATE:20210803
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Heritage Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-08-02CA-ON2917regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The first Monday in August in Ontario is not a statutory holiday but is widely observed by many employers\n\nOntario. Non Statutory but widely observed\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/ontario/civic-holiday
+DTSTART;VALUE=DATE:20210802
+DTEND;VALUE=DATE:20210803
+DTSTAMP:20080101T000000Z
+LOCATION:Ontario
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Civic Holiday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-08-02CA149regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Throughout Canada, the first Monday in August is generally a holiday though it is known by different names in different areas\n\nFirst Monday in August\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-civic-day
+DTSTART;VALUE=DATE:20210802
+DTEND;VALUE=DATE:20210803
+DTSTAMP:20080101T000000Z
+LOCATION:British Columbia, New Brunswick, Northwest Territories, Nunavut, Saskatchewan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Civic Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-08-16CA-YT936regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Yukon only. Also known as Klondike Gold Discovery Day. Replaces the Civic Holiday observed on the 1st Monday of August in other areas of Canada\n\nMonday nearest August 17th. Yukon\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/yukon/yukon-discovery-day
+DTSTART;VALUE=DATE:20210816
+DTEND;VALUE=DATE:20210817
+DTSTAMP:20080101T000000Z
+LOCATION:Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Discovery Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-09-06CA151regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The origins of Labour day in Canada can be traced back to a printer's revolt over working hours in 1872 in Toronto\n\nFirst Monday in September\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-labour-day
+DTSTART;VALUE=DATE:20210906
+DTEND;VALUE=DATE:20210907
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Labour Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-10-11CA152regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Celebrated on the Second Monday in October and statutory, except in New Brunswick, Nova Scotia, and Prince Edward Island.\n\n2nd Monday in October\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canadian-thanksgiving
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211012
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Ontario, Quebec, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Thanksgiving (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-11-11CA993regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Observed on November 11th to recall the end of World War I on that date in 1918 and honour the veterans of both World Wars.\n\nStatutory holiday in most provinces and territories\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-remembrance-day
+DTSTART;VALUE=DATE:20211111
+DTEND;VALUE=DATE:20211112
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Prince Edward Island, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Remembrance Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-12-25CA181regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Christmas celebrates the Nativity of Jesus which according to tradition took place on December 25th 1 BC\n\n\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/christmas-day
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211226
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Christmas Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-12-26CA127regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The second day of Christmas is known as Boxing Day or St. Stephens Day. St Stephen was the first Christian martyr.\n\n\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/boxing-day
+DTSTART;VALUE=DATE:20211226
+DTEND;VALUE=DATE:20211227
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, New Brunswick, Nova Scotia, Ontario
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Boxing Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-12-26CA-NL127reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The second day of Christmas is known as Boxing Day or St. Stephens Day. St Stephen was the first Christian martyr.\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/boxing-day
+DTSTART;VALUE=DATE:20211226
+DTEND;VALUE=DATE:20211227
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Boxing Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2021-12-31CA-QC603reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The last day of the year in the Gregorian calendar is usually celebrated with parties as midnight approaches\n\nQuebec Govt. Only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/quebec/new-years-eve
+DTSTART;VALUE=DATE:20211231
+DTEND;VALUE=DATE:20220101
+DTSTAMP:20080101T000000Z
+LOCATION:Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:New Year's Eve (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-01-01CA415regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: New Year's Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\n\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/international-new-years-day
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:New Year's Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-02-21CA287regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: A provincial statutory holiday observed on the third Monday in February in most provinces\n\nStatutory holiday in several provinces\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/family-day
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Ontario, Prince Edward Island, Saskatchewan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Family Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-02-21CA-NS2718regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The third Monday in February is a holiday in Nova Scotia to celebrate the heritage of the province\n\n3rd Monday in February\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/nova-scotia/nova-scotia-heritage-day
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+DTSTAMP:20080101T000000Z
+LOCATION:Nova Scotia
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Nova Scotia Heritage Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-02-21CA-MB1008regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Louis Riel, the Métis leader is regarded as the Father of Manitoba\n\n3rd Monday in February\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/manitoba/canada-manitoba-louis-riel-day
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+DTSTAMP:20080101T000000Z
+LOCATION:Manitoba
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Louis Riel Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-03-14CA-NL808reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: St. Patrick, the patron saint of Ireland, is a widely known historic figure. But for all his celebrity, his life remains somewhat of a mystery\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/st-patricks-day
+DTSTART;VALUE=DATE:20220314
+DTEND;VALUE=DATE:20220315
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:St. Patrick's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-04-15CA345regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nStatutory, except in Quebec\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/good-friday
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Good Friday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-04-18CA263regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nNunavut. Optional in Alberta and Quebec\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/easter-monday
+DTSTART;VALUE=DATE:20220418
+DTEND;VALUE=DATE:20220419
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, Nunavut, Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Easter Monday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-04-25CA-NL2800reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: This is the generally accepted date of St. George's death\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/st-georges-day
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220426
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:St. George's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-05-23CA908regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Victoria Day celebrates the birthday of Queen Victoria. Following the death of Queen Victoria, May 24th was decreed as Empire Day across the British Empire\n\nMost provinces\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/victoria-day
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220524
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Victoria Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-05-23CA-QC1007regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: National Patriots' Day (Journée nationale des patriotes) is a commemoration of the Lower Canada Rebellion of 1837\n\nQuebec only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/quebec/canada-quebec-national-patriots-day
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220524
+DTSTAMP:20080101T000000Z
+LOCATION:Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:National Patriots' Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-06-21CA578regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: A Provincial Statutory Holiday since 2001 in Northwest Territories and since 2017 in Yukon\n\nNorthwest Territories, Yukon. Provincial Statutory Holiday\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/national-aboriginal-day
+DTSTART;VALUE=DATE:20220621
+DTEND;VALUE=DATE:20220622
+DTSTAMP:20080101T000000Z
+LOCATION:Northwest Territories, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:National Aboriginal Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-06-24CA-QC849regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Saint-Jean Baptiste Day, the national holiday of Québec and a celebration of French-Canadian culture held on the birthday of Quebec’s patron saint\n\nQuebec only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/quebec/the-national-holiday-of-quebec
+DTSTART;VALUE=DATE:20220624
+DTEND;VALUE=DATE:20220625
+DTSTAMP:20080101T000000Z
+LOCATION:Quebec
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:The National Holiday of Quebec (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-06-27CA-NL606regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: June Day commemorates the discovery of the province in 1497 by John Cabot.\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/newfoundland-discovery-day
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220628
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:June Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-07-01CA150regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Celebrates of the anniversary of the formation of the union of the British North America provinces in a federation under the name of Canada\n\nNational Day\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-day
+DTSTART;VALUE=DATE:20220701
+DTEND;VALUE=DATE:20220702
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Canada Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-07-09CA-NU619regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Marks the passing of the Nunavut Act in 1993, which paved the way for the creation of the territory of Nunavut in 1999\n\nNunavut only. Not a holiday for Federal employees\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/nunavut/nunavut-day
+DTSTART;VALUE=DATE:20220709
+DTEND;VALUE=DATE:20220710
+DTSTAMP:20080101T000000Z
+LOCATION:Nunavut
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Nunavut Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-07-11CA-NL1015reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Commemorates the Battle of the Boyne, fought on July 1st 1690 by King William of Orange against King James II\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/newfoundland-and-labrador/orangemans-day
+DTSTART;VALUE=DATE:20220711
+DTEND;VALUE=DATE:20220712
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Orangeman's Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-08-01CA149regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Throughout Canada, the first Monday in August is generally a holiday though it is known by different names in different areas\n\nFirst Monday in August\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-civic-day
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+DTSTAMP:20080101T000000Z
+LOCATION:British Columbia, New Brunswick, Northwest Territories, Nunavut, Saskatchewan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Civic Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-08-01CA-ON2917regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The first Monday in August in Ontario is not a statutory holiday but is widely observed by many employers\n\nOntario. Non Statutory but widely observed\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/ontario/civic-holiday
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+DTSTAMP:20080101T000000Z
+LOCATION:Ontario
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Civic Holiday (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-08-01CA-AB1080regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: An optional general holiday observed by most companies to celebrate the heritage of Alberta\n\nOptional General Holiday. First Monday in August\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/alberta/alberta-heritage-day
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Heritage Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-08-15CA-YT936regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Yukon only. Also known as Klondike Gold Discovery Day. Replaces the Civic Holiday observed on the 1st Monday of August in other areas of Canada\n\nMonday nearest August 17th. Yukon\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/yukon/yukon-discovery-day
+DTSTART;VALUE=DATE:20220815
+DTEND;VALUE=DATE:20220816
+DTSTAMP:20080101T000000Z
+LOCATION:Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Discovery Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-09-05CA151regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The origins of Labour day in Canada can be traced back to a printer's revolt over working hours in 1872 in Toronto\n\nFirst Monday in September\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-labour-day
+DTSTART;VALUE=DATE:20220905
+DTEND;VALUE=DATE:20220906
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Labour Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-10-10CA152regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Celebrated on the Second Monday in October and statutory, except in New Brunswick, Nova Scotia, and Prince Edward Island.\n\n2nd Monday in October\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canadian-thanksgiving
+DTSTART;VALUE=DATE:20221010
+DTEND;VALUE=DATE:20221011
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Ontario, Quebec, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Thanksgiving (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-11-11CA993regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Observed on November 11th to recall the end of World War I on that date in 1918 and honour the veterans of both World Wars.\n\nStatutory holiday in most provinces and territories\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/canada-remembrance-day
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+DTSTAMP:20080101T000000Z
+LOCATION:Alberta, British Columbia, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Prince Edward Island, Saskatchewan, Yukon
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Remembrance Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-12-25CA181regcountry@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Christmas celebrates the Nativity of Jesus which according to tradition took place on December 25th 1 BC\n\n\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/christmas-day
+DTSTART;VALUE=DATE:20221225
+DTEND;VALUE=DATE:20221226
+DTSTAMP:20080101T000000Z
+LOCATION:Canada
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Christmas Day
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-12-26CA127regregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The second day of Christmas is known as Boxing Day or St. Stephens Day. St Stephen was the first Christian martyr.\n\nStatutory in Ontario and federal jurisdictions. Optional in Alberta\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/boxing-day
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221227
+DTSTAMP:20080101T000000Z
+LOCATION:Ontario, Saskatchewan
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Boxing Day (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-12-26CA-NB181lieuregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: As Christmas Day falls on a Sunday in 2022, the following Monday will be a public holiday.\n\nNew Brunswick\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/new-brunswick/christmas-day
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221227
+DTSTAMP:20080101T000000Z
+LOCATION:New Brunswick
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Christmas Day (in lieu) (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-12-26CA127reggovt@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: The second day of Christmas is known as Boxing Day or St. Stephens Day. St Stephen was the first Christian martyr.\n\nNewfoundland and Labrador, Nunavut. Govt. Only\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/boxing-day
+DTSTART;VALUE=DATE:20221226
+DTEND;VALUE=DATE:20221227
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador, Nunavut
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Boxing Day (Government Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:2022-12-27CA181lieuregion@www.officeholidays.com
+CREATED:20210201T103023Z
+DESCRIPTION: Christmas celebrates the Nativity of Jesus which according to tradition took place on December 25th 1 BC\n\nNewfoundland and Labrador\n\nInformation provided by www.officeholidays.com
+URL:https://www.officeholidays.com/holidays/canada/christmas-day
+DTSTART;VALUE=DATE:20221227
+DTEND;VALUE=DATE:20221228
+DTSTAMP:20080101T000000Z
+LOCATION:Newfoundland and Labrador, Nunavut
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Christmas Day (in lieu) (Regional Holiday)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
