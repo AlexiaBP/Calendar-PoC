@@ -2,6 +2,8 @@
 
 ## Walkthrough 
 
+FullCalendar docs https://fullcalendar.io/docs
+
 ### Installation
 
 Install the FullCalendar-related dependencies
@@ -58,7 +60,47 @@ Get ahold of the ViewChild reference
 ```
 
 After the calendar is initiated, we can access the API like so
-`const calendarApi = this.calendarComponent.getApi();`
+```
+const calendarApi = this.calendarComponent.getApi();
+```
+## Concepts
+
+### Events Sources
+
+Consider a `events$` attribute stocking the info fetched from the server and the `calendarAPI` (see above)
+
+```
+ngAfterViewInit() {
+  [...]
+  this.events$.subscribe((events) => {
+    calendarApi.addEventSource(events);
+  });
+  [...]
+}
+```
+
+### Event handlers
+
+For any event handler, you'll need to bind `this` to the callback, for example
+```
+// Event click handler
+eventClick: this.eventClicked.bind(this),
+// Event hover handler
+eventMouseEnter: this.eventHovered.bind(this),
+eventMouseLeave: this.eventLeft.bind(this),
+// Select dates
+select: this.selectDates.bind(this),
+```
+
+### Event render hooks
+
+For any event handler, you'll need to bind `this` to the callback, for example
+```
+// Alter event dom directly
+eventDidMount: this.handleStamps.bind(this),
+// Add classNames
+eventClassNames: this.handleClassNames.bind(this),
+```
 
 ## Development server
 
