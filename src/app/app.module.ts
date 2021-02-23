@@ -9,6 +9,8 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import iCalendarPlugin from '@fullcalendar/icalendar';
 import interactionPlugin from '@fullcalendar/interaction';
+import { MiniCalendarComponent } from './mini-calendar/mini-calendar.component';
+import { CalendarComponent } from './calendar/calendar.component';
 
 FullCalendarModule.registerPlugins([ // register FullCalendar plugins
   dayGridPlugin,
@@ -20,6 +22,8 @@ FullCalendarModule.registerPlugins([ // register FullCalendar plugins
 @NgModule({
   declarations: [
     AppComponent,
+    MiniCalendarComponent,
+    CalendarComponent,
   ],
   imports: [
     BrowserModule,

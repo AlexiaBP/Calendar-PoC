@@ -1,0 +1,52 @@
+:host ::ng-deep full-calendar {
+
+  .fc-daygrid .fc-daygrid-day-top {
+    flex-direction: row;
+  }
+
+  .fc-daygrid .fc-bg-event .fc-event-title {
+    margin-left: 1rem;
+  }
+
+  .stamp {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
+
+  .fc-event-main {
+    padding: 0.25em;
+  }
+  
+  .fc-daygrid .pending > * {
+    border-color: #2e8be0;
+    color: #2e8be0;
+    background-color: white;
+  }
+
+  .fc-daygrid-day {
+    position: relative;
+
+    &:hover button {
+      display: block;
+    }
+  }
+
+  .fc-daygrid-day button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    display: none;
+  }
+
+  .fc-col-header-cell {
+    position: relative;
+  }
+
+  .fc-col-header-cell button {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+

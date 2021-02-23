@@ -1,0 +1,37 @@
+:host {
+  .mini {
+    height: 350px;
+    width: 300px;
+  }
+
+  ::ng-deep {
+    .fc-day {
+      border: 0;
+    }
+
+    .fc .fc-daygrid-day-frame {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .fc .fc-daygrid-day-top {
+      padding: 2px;
+    }
+
+    .fc .fc-daygrid-day.fc-day-today {
+      border-radius: 50%;
+      background-color: #555;
+      color: #fff;
+    }
+
+    .fc .fc-highlight {
+      border-radius: 50%;
+      background-color: #ccc;
+    }
+
+    .fc .fc-day-disabled {
+      background-color: transparent;
+    }
+  }
+}
